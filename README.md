@@ -1,7 +1,7 @@
 # Anlisis-de-Sentimientos-en-crticas-de-peliculas
 # 1.	Dataset (https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews):
 El dataset a ocupar es “IMDB Dataset of 50K Movie Reviews”, este es un conjunto de datos IMDB con 50.000 críticas de películas para el procesamiento del lenguaje natural o el análisis de textos. 
-Se trata de un conjunto de datos para la clasificación binaria de sentimientos que contiene muchos más datos que los anteriores conjuntos de datos de referencia, consta de dos columnas de datos, la primera de “review” y la segunda de “sentiment”. Proporciona un conjunto de 25.000 críticas de películas altamente polares para el entrenamiento y 25.000 para las pruebas. (Andrew L. Maas, Raymond E. Daly, Peter T. Pham, Dan Huang, Andrew Y. Ng, and Christopher Potts, 2011)
+Se trata de un conjunto de datos para la clasificación binaria de sentimientos que contiene muchos más datos que los anteriores conjuntos de datos de referencia, consta de dos columnas de datos, la primera de “review” y la segunda de “sentiment”. Proporciona un conjunto de 25.000 críticas de películas altamente polares para el entrenamiento y 25.000 para las pruebas. (Andrew L. Maas, Raymond E. Daly, Peter T. Pham, Dan Huang, Andrew Y. Ng, and Christopher Potts, 2011).
 Este dataset es adecuado para predecir el número de críticas positivas y negativas utilizando algoritmos de clasificación o de aprendizaje profundo.
 
 # 2.	Problemas para analizar:
