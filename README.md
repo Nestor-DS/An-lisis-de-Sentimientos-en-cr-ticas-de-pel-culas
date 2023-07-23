@@ -123,3 +123,6 @@ De acuerdo al diagrama presentado podemos asumir que las reseñas positivas tien
 ![image](https://github.com/Nestor-DS/Analisis-de-Sentimientos-en-criticas-de-peliculas/assets/78669277/5830e5ee-6ab7-4042-a128-f15d499fb128)
 
 
+# Referencias
+1	Andrew L. Maas, Raymond E. Daly, Peter T. Pham, Dan Huang, Andrew Y. Ng, and Christopher Potts. (2011). Learning Word Vectors for Sentiment Analysis. The 49th Annual Meeting of the Association for Computational Linguistics (ACL 2011).
+
